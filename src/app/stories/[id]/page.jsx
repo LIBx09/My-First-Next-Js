@@ -3,7 +3,7 @@ import React from "react";
 
 const StoriesDetailsPage = async ({ params }) => {
   const { id } = await params;
-  console.log("where is the id?", id);
+  // console.log("where is the id?", id);
 
   const devStories = [
     {

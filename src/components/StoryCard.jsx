@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 
 const StoryCard = ({ story }) => {
-  console.log("what is the story?", story);
+  // console.log("what is the story?", story);
   return (
     <div>
       <div
